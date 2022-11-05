@@ -11,4 +11,3 @@ function soma()
   resultado.textContent = vr;
 }
 
-alert
