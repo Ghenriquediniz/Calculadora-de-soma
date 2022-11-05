@@ -1,2 +1,3 @@
-# Calculadora-de-soma![Project 1]
-(https://user-images.githubusercontent.com/110628541/200136005-852b4795-7fc7-4907-bd9c-71e57439add3.gif)
+# Calculadora-de-soma!
+
+![Project 1](https://user-images.githubusercontent.com/110628541/200136031-ee604018-4ac6-4e1f-bd9a-775e75bf2bd2.gif)
